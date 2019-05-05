@@ -31,6 +31,7 @@ Share the list with your classmates, your friends and everyone :)
     * [Books for Algorithms](#books-for-algorithms) | [Books for Mathematics](#books-for-mathematics)
 * [Sites for Practice](#sites-for-practice)
     * [Problem Classifiers](#problem-classifiers) | [Contest Calendars](#contest-calendars)
+* [Camps and Trainings](#camps-and-trainings)
 * [Sites for Questions](#sites-for-questions)
 * [Implementations](#implementations)
 * [Language Specifics](#language-specifics)
@@ -63,7 +64,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★★★ | [IOI Syllabus](https://people.ksp.sk/~misof/ioi-syllabus/) | A detailed syllabus on which IOI contestants will be tested. This is still somewhat relevant to ACM-ICPC. |
 | ★★★ | [How to prepare for ACM - ICPC? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/) | A detailed walk-through of the preparations for ACM-ICPC. |
 | ★★☆ | [Programming Camp Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit) | A list of important topics in competitive programming with exercise problems. |
-| ★★☆ | [Juniors Training Sheet](https://goo.gl/unDETI), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) | Simple problems for newcomers |
+| ★★☆ | [Juniors Training Sheet](https://goo.gl/unDETI), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) | ~800 ordered problems for newcomers to be good up to Div2-D |
 
 
 ## Tutorial Websites
@@ -72,7 +73,7 @@ Share the list with your classmates, your friends and everyone :)
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [Topcoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/) | A list of tutorials written by respected Topcoder members. Many top programmers started learning data sciences from here. |
-| ★★★ | [E-Maxx (Russian)](http://e-maxx.ru/algo/), [(English)](http://cp-algorithms.com/) | A tutorial website widely used and referenced in the Russian-speaking competitive programming community. Only a small fraction of the original site is translated into English, but Google Translate would work okay.
+| ★★★ | [E-Maxx (Russian)](http://e-maxx.ru/algo/), [(English)](http://cp-algorithms.com/) | A tutorial website widely used and referenced in the Russian-speaking competitive programming community. Most of the articles of the original site have been translated into English, Google Translate works okay for the remaining ones. |
 | ★★☆ | [Algorithms - GeeksforGeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/) | A website with a large archive of nicely written articles on different topics. It is a great complimentary resource for algorithm courses. |
 | ★★☆ | [PEGWiki](http://wcipeg.com/wiki/Special:AllPages) | A website with amazing in-depth wiki-like writeups on many topics. It's far better than those on Wikipedia in my opinion. |
 | ★★☆ | [Notes - HackerEarth](https://www.hackerearth.com/practice/notes/trending/) | A great crowdsourcing platform for tutorials. Also visit [Code Monk](https://www.hackerearth.com/practice/codemonk/). |
@@ -83,6 +84,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★☆☆ | [algolist (Russian)](http://algolist.manual.ru/) | A Russian website devoted to algorithms of all sorts. Some topics listed on this website seems pretty interesting. |
 | ★★☆ | [演算法筆記 (Algorithm Notes) (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/) | One of the most popular tutorial websites among the Taiwanese competitive programming community. The maintainer for this website spends immense efforts on researching algorithms. |
 | ★★☆ | [国家集训队论文 1999-2015 (Papers from Chinese IOI training camps) (Chinese)](http://download.csdn.net/album/detail/657/1/1) | Papers from the Chinese IOI training camps. It's interesting for the fact that one can tell different regions emphasize different things. |
+| ★★★ | [Mini-Editorials](https://github.com/mostafa-saad/MyCompetitiveProgramming), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) trainees | Solutions with mini-editorials for many problems, including UVA/SPOJ/IOI/Olympiad problems |
 
 
 ## Open Courses
@@ -96,7 +98,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [Codechef's Indian Programming Camp](https://www.youtube.com/playlist?list=PLi0ZM-RCX5nsTc2Z6woHr5qoF6n3b-thO) | Video Lectures from [Codechef's Indian Programming Camp 2016](https://blog.codechef.com/2016/08/03/lectures-from-indian-coding-camp/). Lectures given by top competitive programmers like Sergey Kulik, Kevin Charles Atienza and Anudeep Nekkanti. Primarily focused on exploring these concepts by applying them to actual competitive contest problems. |
 | ★★☆ | [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/) | An awesome course taught by [Bjarki Ágúst Guðmundsson (SuprDewd)](https://algo.is). These lectures feature neat slides and a nice list of problems to practice. |
 | ★★☆ | [NCTU DCP4631: Problem Solving and Programming Techniques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014) | A course on basic topics featuring good lecture slides. |
-| ★☆☆ | [Materials (English)](https://github.com/mostafa-saad/ArabicCompetitiveProgramming) from [Arabic Competitive Programming Channel](https://www.youtube.com/user/nobody123497) | Some materials (slides & source codes) covering a broad range of algorithmic topics |
+| ★☆☆ | [Materials (English)](https://github.com/mostafa-saad/ArabicCompetitiveProgramming) from [Arabic Competitive Programming Youtube Channel](https://www.youtube.com/user/nobody123497) | Some materials (slides & source codes) covering a broad range of algorithmic topics by Mostafa Saad Ibrahim. |
 
 ### Open Courses for Algorithms and Data Structures
 
@@ -176,9 +178,9 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ★★★ | [A2 Online Judge](https://a2oj.com/Categories.jsp) | Mixed |
 | ★★★ | [Problem Classifier](http://problemclassifier.appspot.com/) | SPOJ |
 | ★★☆ | [UVa Online Judge](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8) | CP Book |
-| ★☆☆ | [Codeforces Tags](http://codeforces.com/problemset/tags/dp) | CF (DP) |
+| ★☆☆ | [Codeforces Tags](http://codeforces.com/problemset?tags=dp) | CF (DP) |
 | ★★☆ | [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup) | HackerRank |
-| ★★☆ | [Juniors Training Sheet](https://goo.gl/unDETI), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) | Simple problems for newcomers |
+| ★★☆ | [Juniors Training Sheet](https://goo.gl/unDETI), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) | ~800 ordered problems for newcomers to be good up to Div2-D |
 | ★★☆ | [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/) | UVa |
 | ★★☆ | [Topcoder problem archive](https://community.topcoder.com/tc?module=ProblemArchive) | List of problems with categories and complexity levels |
 
@@ -204,6 +206,14 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | ★★★ | [Codeforces](http://codeforces.com/) | For quick answers, Codeforces is definitely the go-to place to ask about anything competition-related. |
 | ★★★ | [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) | You would typically get more elaborate answers on Quora, but you might not have your questions answered straightaway. |
 | ★★☆ | [Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/) | This place is generally for the academics, so don't ask questions about contest problems here. |
+
+
+### Camps and Trainings
+> Online Trainings and Camps.
+
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★★ | [Online Free Problem-Solving Coaching](https://codeforces.com/blog/mostafa.saad.fci), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) | See the coaching details and people comments on its nature/quality.|
 
 
 ## Implementations
@@ -274,7 +284,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [VisuAlgo](https://visualgo.net/en) | A website featuring a large collection of visualization tools for algorithms and data structures. |
-| ★★★ | General Practice Helpers: ... [CHelper](https://plugins.jetbrains.com/plugin/7091-chelper) (IntelliJ IDEA) ([manual](http://codeforces.com/blog/entry/3273)) ... [caide](https://github.com/slycelote/caide) (Visual Studio, CodeLite, standalone command line app) ... [JHelper](http://codeforces.com/blog/entry/13369) (AppCode, CLion) | Great tools that parse contests, inline library codes and provide testing frameworks. They save you from spending your precious time on switching windows and copy-pasting back and forth. |
+| ★★★ | General Practice Helpers: ... [CHelper](https://plugins.jetbrains.com/plugin/7091-chelper) (IntelliJ IDEA) ([manual](http://codeforces.com/blog/entry/3273)) ... [caide](https://github.com/slycelote/caide) (Visual Studio, CodeLite, standalone command line app) ... [JHelper](http://codeforces.com/blog/entry/13369) (AppCode, CLion) [online-judge-tools](https://github.com/kmyk/online-judge-tools) (Stand alone CLI tool, It is actively maintained.) | Great tools that parse contests, inline library codes and provide testing frameworks. They save you from spending your precious time on switching windows and copy-pasting back and forth. |
 | ★★☆ | Codeforces Parsers: ... [Codeforces Parser](https://github.com/johnathan79717/codeforces-parser) ... [GoCF](https://github.com/sukeesh/GoCF) ... [cfparser](https://github.com/gnull/cfparser) (emacs) [cfparser](https://github.com/ikatanic/cfparser) (cli) | These tools parse Codeforces contest problems and help run sample tests. |
 | ★★★ | [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/) | A stunning encyclopedia with a database of countless integer sequences. It also features a powerful search engine. Sometimes a seemingly difficult combinatorics problem could be equivalent to a simple or studied integer sequence. |
 | ★★☆ | Syntax Highlighters: ... [tohtml.com](https://tohtml.com/) ... [markup.su](http://markup.su/highlighter/) ... [hilite.me](http://hilite.me/) | Very handy for creating slides or team notebooks with pretty, formatted code snippets. Just copy the highlighted code snippets and paste them in your favorite WYSIWYG (What-You-See-Is-What-You-Get) editor! |
